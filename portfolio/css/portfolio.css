@@ -1,0 +1,10 @@
+
+body{
+    background-color: gray;
+}
+#bg-image{
+    background-image: url('images/bg1.png');
+    background-size: 100%;
+    background-repeat: no repeat;
+    min-height: 500px;
+}
